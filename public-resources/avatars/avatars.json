@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Vincent",
+    "surname": "Belt",
+    "age": 78,
+    "location": "Bosnia and Herzegovina",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-1.png?raw=true"
+  },
+  {
+    "id": 2,
+    "name": "Linn",
+    "surname": "Berriball",
+    "age": 89,
+    "location": "Serbia",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-2.png?raw=true"
+  },
+  {
+    "id": 3,
+    "name": "John",
+    "surname": "Kendal",
+    "age": 24,
+    "location": "Indonesia",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-3.png?raw=true"
+  },
+  {
+    "id": 4,
+    "name": "Mark",
+    "surname": "Mathys",
+    "age": 31,
+    "location": "Colombia",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-4.png?raw=true"
+  },
+  {
+    "id": 5,
+    "name": "Theresa",
+    "surname": "Brimelow",
+    "age": 46,
+    "location": "China",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-5.png?raw=true"
+  },
+  {
+    "id": 6,
+    "name": "Natalie",
+    "surname": "Korf",
+    "age": 25,
+    "location": "Ukraine",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-6.png?raw=true"
+  },
+  {
+    "id": 7,
+    "name": "Percival",
+    "surname": "Mendes",
+    "age": 62,
+    "location": "Brazil",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-7.png?raw=true"
+  },
+  {
+    "id": 8,
+    "name": "Valerie",
+    "surname": "O'Brian",
+    "age": 16,
+    "location": "Indonesia",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-8.png?raw=true"
+  },
+  {
+    "id": 9,
+    "name": "Lenno",
+    "surname": "Spurway",
+    "age": 29,
+    "location": "Mexico",
+    "image": "https://github.com/it-graduaten/ProgrammingAdvanced-StarterRepo/blob/main/public-resources/avatars/avatar-9.png?raw=true"
+  }
+]
